@@ -116,3 +116,24 @@ p{
   background-color: #e1e1e1;
 }
 
+
+.favorite ul {
+  list-style-position: outside; 
+  display: inline-block;        
+  text-align: left;             
+  padding-left: 20px;         
+}
+
+.favorite {
+  text-align: center;
+}
+
+.favorite ul li {
+  padding: 3px;
+}
+
+.favorite h2 {
+  font-size: 20px;
+  text-align: center;
+}
+
